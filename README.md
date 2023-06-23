@@ -1,11 +1,5 @@
 # 정규 표현식 정리
 
-![regex](./regex.png)
-
-## [강의 영상 ← 클릭](https://youtu.be/t3M6toIflyQ)
-
-공부방법, 사용 예제, 유용한 사이트에 대한 정보는 유튜브 영상에서 확인해 보세요 🙌
-
 연습용 사이트: [regexr.com/5mhou](https://regexr.com/5ml92)
 
 ## 문법 정리
